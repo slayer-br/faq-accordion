@@ -32,8 +32,8 @@ Durante o desenvolvimento, foram aplicadas boas práticas de:
 - Acessibilidade com aria-expanded
 
 ## 🔗 Links
-- URL da solução: <a href="https://github.com/slayer-br/faq-accordion" target="_blank" rel="noopener noreferrer">Testimonials Grid Section</a>
-- Site ao vivo: <a href="https://github.com/slayer-br/faq-accordion" target="_blank" rel="noopener noreferrer">Testimonials Grid Section</a>
+- URL da solução: <a href="https://github.com/slayer-br/faq-accordion" target="_blank" rel="noopener noreferrer">Faq Accordion</a>
+- Site ao vivo: <a href="https://github.com/slayer-br/faq-accordion" target="_blank" rel="noopener noreferrer">FAQ Accordion</a>
 
 ## 👨‍💻 Autor
 - GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
