@@ -9,6 +9,7 @@ O componente exibe uma lista de perguntas frequentes (FAQs). Ao clicar em uma pe
 
 ## 📸 Screenshot
 | Versão Mobile | Versão Desktop |
+|---------------|----------------|
 | ![Mobile](./assets/images/faq-accordion-mobile.gif) | ![Desktop](./assets/images/faq-accordion-desktop.gif) |
 
 ## 🛠️ Tecnologias utilizadas
