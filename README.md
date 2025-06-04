@@ -33,7 +33,7 @@ Durante o desenvolvimento, foram aplicadas boas práticas de:
 
 ## 🔗 Links
 - URL da solução: <a href="https://github.com/slayer-br/faq-accordion" target="_blank" rel="noopener noreferrer">Faq Accordion</a>
-- Site ao vivo: <a href="https://github.com/slayer-br/faq-accordion" target="_blank" rel="noopener noreferrer">FAQ Accordion</a>
+- Site ao vivo: <a href="https://slayer-br.github.io/faq-accordion/" target="_blank" rel="noopener noreferrer">FAQ Accordion</a>
 
 ## 👨‍💻 Autor
 - GitHub - <a href="https://github.com/slayer-br" target="_blank" rel="noopener noreferrer">@slayer-br</a>
